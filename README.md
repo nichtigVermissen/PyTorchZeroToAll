@@ -1,1 +1,2 @@
 # PyTorchZeroToAll
+Devkor DL Seminar
